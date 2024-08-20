@@ -17,19 +17,16 @@ Custom AI experiences require data—lots of it. And AI is only as good as the d
 - Microsoft Fabric and Azure AI integrate to streamline data into your AI applications
 
 
-## Additional Resources and Continued Learning
+## Session Resources
 You can find additional resources, including the slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| BRK360 PPT Presentation | [Link 1](https://aka.ms/AArw3va/) | Full presentation deck |
+| BRK360 Session Recording | [Link 2](https://www.bing.com/) | Coming Soon|
 
 ## Content Owners
-Tyler Mays-Childers, Ronald Chang
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
+Tyler Mays-Childers (tmac@microsoft.com)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
