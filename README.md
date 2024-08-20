@@ -1,5 +1,7 @@
 # Activate your data and analytics for AI innovation
 
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.png)
+
 ## Session Desciption
 
 Custom AI experiences require data—lots of it. And AI is only as good as the data it’s based on. Learn how Microsoft’s analytics solutions can unlock more value from your data and ensure you have the AI-ready data you need.
