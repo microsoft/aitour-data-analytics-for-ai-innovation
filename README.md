@@ -25,7 +25,7 @@ You can find additional resources, including the slides of the presentation here
 | BRK360 Session Recording | [Link 2](https://www.bing.com/) | Coming Soon|
 
 ## Content Owners
-Tyler Mays-Childers (tmac@microsoft.com)
+Tyler Mays-Childers, title, Microsoft
 
 
 
