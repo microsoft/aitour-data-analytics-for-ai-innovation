@@ -22,7 +22,8 @@ You can find additional resources, including the slides of the presentation here
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | BRK360 PPT Presentation | [Link 1](https://aka.ms/AArw3va/) | Full presentation deck |
-| BRK360 Session Recording | [Link 2](https://www.bing.com/) | Coming Soon|
+| BRK360 Session Recording | [Link 2](https://aka.ms/AArxljz/) | Video recording of a walkthrough of the presentation|
+| BRK360 Speaker Notes | [Link3](https://aka.ms/AArxljv/) | Word doc with speaker notes per slide |
 
 ## Content Owners
 Tyler Mays-Childers, Sr. Product Marketing Manager, Microsoft
