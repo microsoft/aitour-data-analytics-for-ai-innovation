@@ -1,4 +1,4 @@
-# Activate your data and analytics for AI innovation
+# BRK360: Activate your data and analytics for AI innovation
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK360%20Activate%20Your%20Data.png)
 
