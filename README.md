@@ -21,7 +21,9 @@ You can find additional resources, including the slides of the presentation here
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK360 EN-US PPT Presentation | [Link 1](https://aka.ms/AArw3va/) | Full presentation deck in US English |
+| BRK360 EN-US PPT Presentation | [Link](https://aka.ms/AArw3va/) | Full presentation deck in US English |
+| BRK360 Korean PPT Presentation  | [Link]| Full presentation deck in Korean -- Coming soon|
+| BRK360 Japanese PPT Presentation  | [Link]| Full presentation deck in Japanese -- Coming soon|
 
 ## Content Owners
 Tyler Mays-Childers, Sr. Product Marketing Manager, Microsoft
